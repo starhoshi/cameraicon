@@ -25,15 +25,15 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.39794922"
-     inkscape:cx="1024"
+     inkscape:cx="1021.4871"
      inkscape:cy="1024"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1400"
      inkscape:window-height="1000"
-     inkscape:window-x="158"
-     inkscape:window-y="1020"
+     inkscape:window-x="139"
+     inkscape:window-y="1013"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata7">
@@ -52,9 +52,9 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,995.63782)"
-     style="opacity:1">
+     style="opacity:0.7585034">
     <rect
-       style="fill:#666699;fill-opacity:1;stroke:#555599;stroke-opacity:1"
+       style="fill:#666699;fill-opacity:1;stroke:#66669f;stroke-opacity:1;opacity:1"
        id="rect5332"
        width="2078.1545"
        height="2078.1545"
@@ -73,5 +73,12 @@
        height="487.49939"
        x="462.37054"
        y="462.37054" />
+    <rect
+       style="fill:#f8f8ff;fill-opacity:1;stroke:#f8f8ff;stroke-opacity:1"
+       id="rect5336"
+       width="1399.676"
+       height="962.43439"
+       x="324.16199"
+       y="542.78284" />
   </g>
 </svg>
