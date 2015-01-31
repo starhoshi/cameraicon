@@ -19,16 +19,16 @@
      id="defs4" />
   <sodipodi:namedview
      id="base"
-     pagecolor="#666699"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="1"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.39794922"
      inkscape:cx="1024"
      inkscape:cy="1024"
      inkscape:document-units="px"
-     inkscape:current-layer="svg2"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1400"
      inkscape:window-height="1000"
@@ -48,38 +48,30 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="レイヤー 1"
+     inkscape:label="background"
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,995.63782)"
      style="opacity:1">
-    <path
-       style="fill:#666699;fill-opacity:0"
-       d="m -20.665025,1023.6158 0,-1056.896588 1043.103425,0 1043.1035,0 0,1056.896588 0,1056.8965 -1043.1035,0 -1043.103425,0 0,-1056.8965 z"
-       id="path2997"
-       inkscape:connector-curvature="0"
-       transform="translate(0,-995.63782)" />
-    <path
-       style="fill:#666699;fill-opacity:0"
-       d="m -20.320197,1023.6158 0,-1056.896588 1041.379297,0 1041.3793,0 0,1056.896588 0,1056.8965 -1041.3793,0 -1041.379297,0 0,-1056.8965 z"
-       id="path3767"
-       inkscape:connector-curvature="0"
-       transform="translate(0,-995.63782)" />
-    <path
-       style="fill:#666699;fill-opacity:0"
-       d="m -20.320197,1023.6158 0,-1056.896588 1041.379297,0 1041.3793,0 0,1056.896588 0,1056.8965 -1041.3793,0 -1041.379297,0 0,-1056.8965 z"
-       id="path3769"
-       inkscape:connector-curvature="0"
-       transform="translate(0,-995.63782)" />
-    <path
-       style="fill:#666699;fill-opacity:0;stroke:#555590;stroke-opacity:0"
-       d="m -20.320197,1023.6158 0,-1056.896588 1041.379297,0 1041.3793,0 0,1056.896588 0,1056.8965 -1041.3793,0 -1041.379297,0 0,-1056.8965 z"
-       id="path3771"
-       inkscape:connector-curvature="0"
+    <rect
+       style="fill:#666699;fill-opacity:1;stroke:#555599;stroke-opacity:1"
+       id="rect5332"
+       width="2078.1545"
+       height="2078.1545"
+       x="-12.564417"
+       y="-12.564417"
        transform="translate(0,-995.63782)" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="camera-outline" />
+     inkscape:label="camera-outline">
+    <rect
+       style="fill:#008080;fill-opacity:0;stroke:#555599;stroke-opacity:0"
+       id="rect5326"
+       width="879.50922"
+       height="487.49939"
+       x="462.37054"
+       y="462.37054" />
+  </g>
 </svg>
