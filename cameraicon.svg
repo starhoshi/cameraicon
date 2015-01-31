@@ -75,7 +75,7 @@
      inkscape:cx="1024"
      inkscape:cy="1028.0371"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g5692"
      showgrid="false"
      inkscape:window-width="1400"
      inkscape:window-height="1000"
@@ -118,9 +118,50 @@
        style="fill:url(#linearGradient5648);fill-opacity:1;stroke:#66669f;stroke-opacity:1;opacity:1" />
   </g>
   <g
+     style="opacity:1"
+     transform="translate(0,995.63782)"
+     id="g5660"
      inkscape:groupmode="layer"
-     id="layer5"
-     inkscape:label="camera-outline-shadow" />
+     inkscape:label="background-page">
+    <rect
+       transform="translate(0,-995.63782)"
+       y="-12.564417"
+       x="-12.564417"
+       height="2078.1545"
+       width="2078.1545"
+       id="rect5662"
+       style="fill:#666699;fill-opacity:1;stroke:#66669f;stroke-opacity:1;opacity:1" />
+    <rect
+       style="fill:url(#linearGradient5648);fill-opacity:1;stroke:#66669f;stroke-opacity:1;opacity:1"
+       id="rect5664"
+       width="2078.1545"
+       height="2078.1545"
+       x="-12.564417"
+       y="-12.564417"
+       transform="translate(0,-995.63782)" />
+  </g>
+  <g
+     inkscape:label="camera-outline-shadow"
+     id="g5668"
+     inkscape:groupmode="layer">
+    <rect
+       y="462.37054"
+       x="462.37054"
+       height="487.49939"
+       width="879.50922"
+       id="rect5670"
+       style="fill:#008080;fill-opacity:0;stroke:#555599;stroke-opacity:0" />
+    <rect
+       rx="167.38545"
+       ry="161.8385"
+       y="-1605.2173"
+       x="332.16199"
+       height="962.43439"
+       width="1399.676"
+       id="rect5672"
+       style="fill:#392d5e;fill-opacity:1;stroke:#392d5e;stroke-opacity:0"
+       transform="scale(1,-1)" />
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -157,6 +198,21 @@
        ry="404.57431" />
   </g>
   <g
+     inkscape:label="camera-lens-shadow"
+     id="g5674"
+     inkscape:groupmode="layer">
+    <path
+       transform="translate(634.78528,748.14478)"
+       d="m 684.58701,361.85522 a 301.37228,301.37228 0 1 1 -602.744572,0 301.37228,301.37228 0 1 1 602.744572,0 z"
+       sodipodi:ry="301.37228"
+       sodipodi:rx="301.37228"
+       sodipodi:cy="361.85522"
+       sodipodi:cx="383.21472"
+       id="path5676"
+       style="fill:#392d5e;fill-opacity:1;stroke:#f8f8ff;stroke-opacity:1"
+       sodipodi:type="arc" />
+  </g>
+  <g
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="camera-lens">
@@ -170,15 +226,35 @@
        sodipodi:ry="301.37228"
        d="m 684.58701,361.85522 a 301.37228,301.37228 0 1 1 -602.744572,0 301.37228,301.37228 0 1 1 602.744572,0 z"
        transform="translate(640.78528,754.14478)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g5692"
+     inkscape:label="camera-lens-center-shadow">
     <path
        sodipodi:type="arc"
-       style="fill:#f8f8ff;fill-opacity:1;stroke:#f8f8ff;stroke-opacity:1"
-       id="path5352"
+       style="fill:#2c2c59;fill-opacity:1;stroke:#2c2c59;stroke-opacity:1"
+       id="path5694"
        sodipodi:cx="621.93866"
        sodipodi:cy="418.39508"
        sodipodi:rx="188.01375"
        sodipodi:ry="188.01375"
        d="m 809.95241,418.39508 a 188.01375,188.01375 0 1 1 -376.0275,0 188.01375,188.01375 0 1 1 376.0275,0 z"
-       transform="translate(402.06134,697.60492)" />
+       transform="translate(406.06134,701.60492)" />
+  </g>
+  <g
+     inkscape:label="camera-lens-center"
+     id="g5686"
+     inkscape:groupmode="layer">
+    <path
+       transform="translate(402.06134,697.60492)"
+       d="m 809.95241,418.39508 a 188.01375,188.01375 0 1 1 -376.0275,0 188.01375,188.01375 0 1 1 376.0275,0 z"
+       sodipodi:ry="188.01375"
+       sodipodi:rx="188.01375"
+       sodipodi:cy="418.39508"
+       sodipodi:cx="621.93866"
+       id="path5690"
+       style="fill:#f8f8ff;fill-opacity:1;stroke:#f8f8ff;stroke-opacity:1"
+       sodipodi:type="arc" />
   </g>
 </svg>
