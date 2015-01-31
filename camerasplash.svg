@@ -82,16 +82,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.34522221"
-     inkscape:cx="1468.8045"
-     inkscape:cy="2302.5785"
+     inkscape:zoom="0.17261111"
+     inkscape:cx="920.52329"
+     inkscape:cy="2679.4811"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer5"
      showgrid="false"
      inkscape:window-width="1808"
-     inkscape:window-height="1870"
-     inkscape:window-x="1776"
-     inkscape:window-y="254"
+     inkscape:window-height="1235"
+     inkscape:window-x="126"
+     inkscape:window-y="6"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata7">
@@ -139,7 +139,7 @@
        height="1263.3698"
        width="1837.3289"
        id="rect5672"
-       style="fill:#392d5e;fill-opacity:1;stroke:#392d5e;stroke-width:1.31268156;stroke-opacity:0"
+       style="fill:#392d5e;fill-opacity:1;stroke:#392d5e;stroke-width:1.31268155999999991;stroke-opacity:1"
        transform="scale(1,-1)" />
   </g>
   <g
@@ -242,5 +242,39 @@
        id="path5690"
        style="fill:#f8f8ff;fill-opacity:1;stroke:#f8f8ff;stroke-opacity:1"
        sodipodi:type="arc" />
+  </g>
+  <g
+     inkscape:label="title-shadow"
+     id="g3804"
+     inkscape:groupmode="layer">
+    <text
+       sodipodi:linespacing="125%"
+       id="text3806"
+       y="2916.6904"
+       x="0.96686745"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#392d5e;fill-opacity:1;stroke:#392d5e;stroke-opacity:1;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:620px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#392d5e;fill-opacity:1;stroke:#392d5e;stroke-opacity:1;font-family:'NicoMoji+';-inkscape-font-specification:'NicoMoji+'"
+         y="2916.6904"
+         x="0.96686745"
+         id="tspan3808"
+         sodipodi:role="line">めもかめら</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="title">
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#f8f8ff;fill-opacity:1;stroke:#f8f8ff;font-family:Sans;stroke-opacity:0"
+       x="-11.033133"
+       y="2904.6904"
+       id="text3024"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3026"
+         x="-11.033133"
+         y="2904.6904"
+         style="font-size:620px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'NicoMoji+';-inkscape-font-specification:'NicoMoji+';fill:#f8f8ff;fill-opacity:1;stroke:#f8f8ff;stroke-opacity:0">めもかめら</tspan></text>
   </g>
 </svg>
