@@ -218,7 +218,7 @@
      inkscape:label="camera-lens">
     <path
        sodipodi:type="arc"
-       style="fill:#666699;fill-opacity:1;stroke:#f8f8ff;stroke-opacity:1"
+       style="fill:#666699;fill-opacity:1;stroke:#2c2c59;stroke-opacity:0"
        id="path5350"
        sodipodi:cx="383.21472"
        sodipodi:cy="361.85522"
@@ -240,7 +240,7 @@
        sodipodi:rx="188.01375"
        sodipodi:ry="188.01375"
        d="m 809.95241,418.39508 a 188.01375,188.01375 0 1 1 -376.0275,0 188.01375,188.01375 0 1 1 376.0275,0 z"
-       transform="translate(406.06134,701.60492)" />
+       transform="translate(408.06134,703.60492)" />
   </g>
   <g
      inkscape:label="camera-lens-center"
