@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="2048"
@@ -16,7 +17,53 @@
    inkscape:version="0.48.5 r10040"
    sodipodi:docname="cameraicon.svg">
   <defs
-     id="defs4" />
+     id="defs4">
+    <linearGradient
+       id="linearGradient5642">
+      <stop
+         style="stop-color:#50529f;stop-opacity:1;"
+         offset="0"
+         id="stop5644" />
+      <stop
+         id="stop5654"
+         offset="1"
+         style="stop-color:#666699;stop-opacity:0.97647059;" />
+      <stop
+         style="stop-color:#666699;stop-opacity:0;"
+         offset="1"
+         id="stop5646" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5562">
+      <stop
+         style="stop-color:#f8f8ff;stop-opacity:1;"
+         offset="0"
+         id="stop5564" />
+      <stop
+         style="stop-color:#f8f8ff;stop-opacity:0;"
+         offset="1"
+         id="stop5566" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5562"
+       id="linearGradient5568"
+       x1="588.52484"
+       y1="1054.437"
+       x2="1989.5248"
+       y2="1054.437"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5642"
+       id="linearGradient5648"
+       x1="1539.5588"
+       y1="2022.9725"
+       x2="681.47461"
+       y2="-7.6036329"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -68,8 +115,12 @@
        height="2078.1545"
        width="2078.1545"
        id="rect5394"
-       style="fill:#666699;fill-opacity:1;stroke:#66669f;stroke-opacity:1;opacity:1" />
+       style="fill:url(#linearGradient5648);fill-opacity:1;stroke:#66669f;stroke-opacity:1;opacity:1" />
   </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="camera-outline-shadow" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -88,8 +139,8 @@
        height="962.43439"
        x="324.16199"
        y="634.78284"
-       ry="211.08217"
-       rx="155.79877" />
+       ry="161.8385"
+       rx="167.38545" />
   </g>
   <g
      inkscape:groupmode="layer"
