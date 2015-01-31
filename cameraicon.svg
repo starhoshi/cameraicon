@@ -24,11 +24,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.39794922"
-     inkscape:cx="1021.4871"
-     inkscape:cy="1024"
+     inkscape:zoom="0.34522221"
+     inkscape:cx="1024"
+     inkscape:cy="1028.0371"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1400"
      inkscape:window-height="1000"
@@ -52,7 +52,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,995.63782)"
-     style="opacity:0.7585034">
+     style="opacity:1">
     <rect
        style="fill:#666699;fill-opacity:1;stroke:#66669f;stroke-opacity:1;opacity:1"
        id="rect5332"
@@ -61,6 +61,14 @@
        x="-12.564417"
        y="-12.564417"
        transform="translate(0,-995.63782)" />
+    <rect
+       transform="translate(0,-995.63782)"
+       y="-12.564417"
+       x="-12.564417"
+       height="2078.1545"
+       width="2078.1545"
+       id="rect5394"
+       style="fill:#666699;fill-opacity:1;stroke:#66669f;stroke-opacity:1;opacity:1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -79,6 +87,47 @@
        width="1399.676"
        height="962.43439"
        x="324.16199"
-       y="542.78284" />
+       y="634.78284"
+       ry="211.08217"
+       rx="155.79877" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="camera-top">
+    <rect
+       style="fill:#f8f8ff;fill-opacity:1;stroke:#f8f8ff;stroke-width:0.95397049;stroke-opacity:1"
+       id="rect5345"
+       width="786.68469"
+       height="964.94739"
+       x="630.65765"
+       y="474.93497"
+       rx="168.08521"
+       ry="404.57431" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="camera-lens">
+    <path
+       sodipodi:type="arc"
+       style="fill:#666699;fill-opacity:1;stroke:#f8f8ff;stroke-opacity:1"
+       id="path5350"
+       sodipodi:cx="383.21472"
+       sodipodi:cy="361.85522"
+       sodipodi:rx="301.37228"
+       sodipodi:ry="301.37228"
+       d="m 684.58701,361.85522 a 301.37228,301.37228 0 1 1 -602.744572,0 301.37228,301.37228 0 1 1 602.744572,0 z"
+       transform="translate(640.78528,754.14478)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#f8f8ff;fill-opacity:1;stroke:#f8f8ff;stroke-opacity:1"
+       id="path5352"
+       sodipodi:cx="621.93866"
+       sodipodi:cy="418.39508"
+       sodipodi:rx="188.01375"
+       sodipodi:ry="188.01375"
+       d="m 809.95241,418.39508 a 188.01375,188.01375 0 1 1 -376.0275,0 188.01375,188.01375 0 1 1 376.0275,0 z"
+       transform="translate(402.06134,697.60492)" />
   </g>
 </svg>
