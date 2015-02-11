@@ -83,8 +83,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.17261111"
-     inkscape:cx="920.52329"
-     inkscape:cy="2679.4811"
+     inkscape:cx="173.17858"
+     inkscape:cy="2687.3205"
      inkscape:document-units="px"
      inkscape:current-layer="layer5"
      showgrid="false"
@@ -254,11 +254,11 @@
        x="0.96686745"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#392d5e;fill-opacity:1;stroke:#392d5e;stroke-opacity:1;font-family:Sans"
        xml:space="preserve"><tspan
-         style="font-size:620px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#392d5e;fill-opacity:1;stroke:#392d5e;stroke-opacity:1;font-family:'NicoMoji+';-inkscape-font-specification:'NicoMoji+'"
+         style="font-size:500px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#392d5e;fill-opacity:1;stroke:#392d5e;stroke-opacity:1;font-family:JK Gothic L;-inkscape-font-specification:JK Gothic L"
          y="2916.6904"
          x="0.96686745"
          id="tspan3808"
-         sodipodi:role="line">めもかめら</tspan></text>
+         sodipodi:role="line">付箋カメラ</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -266,15 +266,24 @@
      inkscape:label="title">
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#f8f8ff;fill-opacity:1;stroke:#f8f8ff;font-family:Sans;stroke-opacity:0"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#f8f8ff;fill-opacity:1;stroke:#f8f8ff;stroke-opacity:0;font-family:Sans"
        x="-11.033133"
        y="2904.6904"
        id="text3024"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
          id="tspan3026"
          x="-11.033133"
          y="2904.6904"
-         style="font-size:620px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'NicoMoji+';-inkscape-font-specification:'NicoMoji+';fill:#f8f8ff;fill-opacity:1;stroke:#f8f8ff;stroke-opacity:0">めもかめら</tspan></text>
+         style="font-size:500px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#f8f8ff;fill-opacity:1;stroke:#f8f8ff;stroke-opacity:0;font-family:JK Gothic L;-inkscape-font-specification:JK Gothic L;line-height:0%;writing-mode:lr">付箋カメラ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-3615.0627"
+       y="824.11072"
+       id="text3015"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3017"></tspan></text>
   </g>
 </svg>
